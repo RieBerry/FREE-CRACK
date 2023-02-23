@@ -18,7 +18,9 @@ pip install bs4
 # Run this Command 
 
 git clone https://github.com/RieBerry/FREE-CRACK 
+
 cd FREE-CRACK
+
 python WIZKIDO-W23.py
 
 #Easy To Copy
